@@ -1,7 +1,7 @@
 <suite name = "seleniumtesting">
 <test name = "seleniumtesting">
 <classes>
-<class name = "Practise.testcase1"/>
+<class name = "Practise.DependOn"/>
 </classes>
 </test>
 </suite>
